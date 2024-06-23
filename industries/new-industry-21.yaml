@@ -1,0 +1,17 @@
+available: true
+callbacks: ''
+cargoAcceptance:
+- VEHI
+cargoProduction: []
+colour: 1
+fundCostMultiplier: 100
+id: 21
+layout:
+- - - -1
+name: 'New industry #21'
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: secondary
